@@ -6,8 +6,6 @@ This project aims to bridge the gap between academic research and industry deman
 
 ---
 
----
-
 ## ⚙️ Key Components
 
 ### 1. **Data Ingestion Jobs** (`app/src/jobs`)
@@ -58,12 +56,3 @@ Graph algorithms from **Neo4j GDS** were used:
 - Unified view across Academia, Industry, and Developer platforms.
 - Identification of trending, aligned, and missing topics across domains.
 - Topic-level evolution from **2012 to 2025**.
-
----
-
-## 📌 Usage
-
-1. Clone the repo:
-   ```bash
-   git clone <repo-url>
-
